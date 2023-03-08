@@ -28,6 +28,3 @@ I used python's flask framework to build my application
 
 ### Front-end application
 I used Krish's html file to build the front end application, since I don't know how to write html (yet!). 
-
-=======
->>>>>>> 0382d8a67016b9efdc80aa33fd64530063547ca7
