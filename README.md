@@ -1,3 +1,4 @@
+This repo is still under development!
 # BostonHousePricing
 In this project I follow a tutorial by [Krish Naik](https://www.youtube.com/watch?v=MJ1vWb1rGwM) to familiarize myself with the end to end project excution process. From this project I learned some important topics: the CI/CD pipeline process and methods of deploying models. 
 
@@ -13,6 +14,7 @@ Create new environment for project
 conda create -p venv python==3.7 -y
 
 ```
+<<<<<<< HEAD
 ### Data, EDA, Modeling
 1. I use the Boston Housing data offered by sklearn
 2. Performed some light exploratory data analysis
@@ -27,3 +29,5 @@ I used python's flask framework to build my application
 ### Front-end application
 I used Krish's html file to build the front end application, since I don't know how to write html (yet!). 
 
+=======
+>>>>>>> 0382d8a67016b9efdc80aa33fd64530063547ca7
