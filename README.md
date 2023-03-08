@@ -1,6 +1,7 @@
-This repo is still under development!
 # BostonHousePricing
-In this project I follow a tutorial by [Krish Naik](https://www.youtube.com/watch?v=MJ1vWb1rGwM) to familiarize myself with the end to end project excution process. From this project I learned some important topics: the CI/CD pipeline process and methods of deploying models, as well as testing APIs using the Postman app.  
+
+### Introduction
+In this project I follow a tutorial by [Krish Naik](https://www.youtube.com/watch?v=MJ1vWb1rGwM) to familiarize myself with the end to end project excution process. From this project I learned some important topics: the CI/CD pipeline process and methods of deploying models, as well as testing APIs using the Postman app and dockerization of a project (even though I did not use a docker image to run the projectas a container).   
 
 ### Software and Tools requirements:
 
@@ -15,7 +16,7 @@ Create new environment for project
 conda create -p venv python==3.7 -y
 
 ```
-<<<<<<< HEAD
+
 ### Data, EDA, Modeling
 1. I use the Boston Housing data offered by sklearn
 2. Performed some light exploratory data analysis
